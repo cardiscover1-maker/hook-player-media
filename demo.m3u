@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 1
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=1
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 2
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=2
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 3
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=3
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 4
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=4
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 5
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=5
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 6
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=6
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 7
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=7
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 8
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=8
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 9
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=9
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 10
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=10
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 11
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=11
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/channel_logo.png" group-title="Live channel",channel demo 12
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/live_demo.mp4?ch=12
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster1.jpg" group-title="movies demo",video demo 1
 https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie1.mp4
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster2.jpg" group-title="movies demo",video demo 2
@@ -30,44 +30,44 @@ https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/m
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster3.jpg" group-title="movies demo",video demo 3
 https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie3.mp4
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster1.jpg" group-title="movies demo",video demo 4
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie1.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie1.mp4?v=4
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster2.jpg" group-title="movies demo",video demo 5
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie2.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie2.mp4?v=5
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster3.jpg" group-title="movies demo",video demo 6
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie3.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie3.mp4?v=6
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster1.jpg" group-title="movies demo",video demo 7
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie1.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie1.mp4?v=7
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster2.jpg" group-title="movies demo",video demo 8
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie2.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie2.mp4?v=8
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster3.jpg" group-title="movies demo",video demo 9
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie3.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie3.mp4?v=9
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster1.jpg" group-title="movies demo",video demo 10
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie1.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie1.mp4?v=10
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster2.jpg" group-title="movies demo",video demo 11
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie2.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie2.mp4?v=11
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/poster3.jpg" group-title="movies demo",video demo 12
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie3.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/movie3.mp4?v=12
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S01 E01 - Episode 1
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=1e1
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S01 E02 - Episode 2
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=1e2
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S01 E03 - Episode 3
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=1e3
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S01 E04 - Episode 4
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=1e4
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S01 E05 - Episode 5
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=1e5
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S01 E06 - Episode 6
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=1e6
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S02 E01 - Episode 1
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=2e1
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S02 E02 - Episode 2
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=2e2
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S02 E03 - Episode 3
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=2e3
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S02 E04 - Episode 4
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=2e4
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S02 E05 - Episode 5
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=2e5
 #EXTINF:-1 tvg-logo="https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/series_poster.jpg" group-title="series demo",Demo Series S02 E06 - Episode 6
-https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4
+https://github.com/cardiscover1-maker/hook-player-media/releases/download/v1.0/nature.mp4?s=2e6
